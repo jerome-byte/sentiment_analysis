@@ -71,13 +71,12 @@ Enfin, l'analyse des mots les plus discriminants (delicious, great, best, perfec
 En résumé, ce projet démontre que même des classificateurs linéaires simples, bien réglés et associés à un feature engineering soigné, permettent d'atteindre une précision d'environ 80 % sur une tâche réelle d'analyse de sentiment — et que Pegasos, grâce à sa régularisation, constitue le meilleur choix parmi les trois lorsque la performance de généralisation prime.
 
 
-Installation
-bash
-git clone <lien-du-repo>
-cd <nom-du-projet>
-pip install -r requirements.txt
-Utilisation
-bash
-python project1/main.py
+## Installation
+- git clone <lien-du-repo>
+- cd <nom-du-projet>
+- pip install -r requirements.txt
+
+## Utilisation
+- python project1/main.py
 
 Le script entraîne les trois algorithmes, effectue le réglage des hyperparamètres sur le jeu de validation, évalue sur le jeu de test, et affiche les mots les plus discriminants.
