@@ -1,6 +1,5 @@
 # Analyse de Sentiment sur Avis Produits (Amazon)
 
-Projet réalisé dans le cadre du cours **MITx 6.86x — Machine Learning with Python: from Linear Models to Deep Learning** (edX).
 
 ## Contexte
 
